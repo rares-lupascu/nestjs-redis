@@ -25,7 +25,7 @@
     "@types/ioredis": "*",
     "@types/uuid": "*",
     "ioredis": "^4",
-    "reflect-metadata": "*",
+    "reflect-metadata": "0.2.1",
     "rxjs": "^6",
     "uuid": "^8"
   },
